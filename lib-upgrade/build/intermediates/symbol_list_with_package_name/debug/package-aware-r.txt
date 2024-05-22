@@ -1,0 +1,2 @@
+com.qualcomm.qti.libraries.upgrade
+string app_name
